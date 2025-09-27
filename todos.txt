@@ -1,0 +1,7 @@
+1|finish C++ project|1
+2|send that email|1
+3|buy dog food|0
+4|write a letter|0
+5|clean my room|1
+6|grow a garden|0
+7|go fishing|0
